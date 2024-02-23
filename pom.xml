@@ -14,7 +14,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>interfaz.IntefazLogin</mainClass>
+                            <mainClass>interfaz.InterfazLogin</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
